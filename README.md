@@ -1,7 +1,7 @@
 ## This repository contains my first two Bash scripts, written as part of my journey into web penetration testing.
 ## Both scripts were created and edited entirely in Vim as part of learning automation, debugging, and Bash fundamentals.
 
-## Scripts Overview
+# Scripts Overview
 ## 1. my_second_script.sh – System Info Automation
 
 Automates basic information gathering:
