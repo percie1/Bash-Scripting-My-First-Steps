@@ -4,8 +4,8 @@
 # Scripts Overview
 ## 1. my_second_script.sh – System Info Automation
 
-Automates basic information gathering:
-Displays the path to my home directory
+- Automates basic information gathering:
+- Displays the path to my home directory
 Shows the terminal type
 Lists all services started at runlevel 3
 
