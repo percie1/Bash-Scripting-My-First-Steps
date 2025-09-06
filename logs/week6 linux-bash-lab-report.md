@@ -59,7 +59,6 @@ echo "Surface area: $surface"
 - Created a new user with sudo privileges:
 - sudo adduser percie && sudo usermod -aG sudo percie
 - Learned how /etc/profile (system-wide) differs from .bashrc (per-user).
-- Learned how /etc/profile (system-wide) differs from .bashrc (per-user).
 
 **Bash Skills Practiced**
 - Quoting and escaping ('single', "double", and \backslash).
