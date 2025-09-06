@@ -11,6 +11,7 @@ VAR2="happy birthday"
 VAR3="13"
 
 echo "$VAR1, $VAR2 $VAR3"
+```
 
 - then Display the values of all three variables.
 - Practiced displaying them with echo and different quoting methods.
@@ -23,6 +24,7 @@ echo "$VAR1, $VAR2 $VAR3"
 ```bash
 # Add a welcome message for all users
 echo "Welcome to this system, stay ethical!" >> /etc/profile
+```
 
 - Tested it by logging in as different users.
 
@@ -32,7 +34,7 @@ echo "Welcome to this system, stay ethical!" >> /etc/profile
 ```bash
 # Change the root prompt style
 PS1="\[\033[1;31m\]Danger!! root is doing stuff in \w\[\033[0m\] # "
-
+```
 - Purpose: to visually warn when operating as root.
 
 **4. RECTANHLE SURFACE CALCULATION SCRIPT**
@@ -51,7 +53,7 @@ surface=$((length * width))
 echo "Length: $length"
 echo "Width : $width"
 echo "Surface area: $surface"
-
+```
 
 **5.USER AND SYSTEM MANAGEMENT**
 - Created a new user with sudo privileges:
